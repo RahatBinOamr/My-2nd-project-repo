@@ -16,3 +16,11 @@ section{
     width: 75%;
     padding-top: 10% ;
 }
+.link-button{
+    text-decoration: none;
+    color:whitesmoke;
+    border-radius: 10px;
+    background-image: linear-gradient(tomato, orange);
+   font-weight: 400;
+    padding: 10px 30px;
+}
