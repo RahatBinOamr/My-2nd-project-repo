@@ -38,9 +38,11 @@ span{
 .new img{
     padding-left: 20px;
 }
+
 .item{
-    width: 50%;
-    height: 50%;
+  width: 47%; 
+  border-width: 10px;
+    
     margin-left: 5px;
     margin-right: 5px;
     margin-top: 5pxS;
